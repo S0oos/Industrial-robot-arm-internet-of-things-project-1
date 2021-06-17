@@ -20,9 +20,9 @@
 
 **I created a database consisting of two tables (run) and (engines).**
 
-**(engines) Divided into seven columns, six for engines and one ((id)primary key)**
+**(engines) Divided into seven columns six for engines and one ((id)primary key)**
 
-**(run) Divided into three columns, two for on and off, and one for ((id)primary key)**
+**(run) Divided into three columns, two for on and off and one for ((id)primary key)**
 
 ## 3.(database)وقاعدة البيانات (html) الربط بين صفحة - Linking the html page to the database
 
