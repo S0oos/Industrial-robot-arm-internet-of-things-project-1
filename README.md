@@ -12,9 +12,9 @@
 
 ## 2.(database) انشاء قاعدة بيانات - Create a (database)
 
-**(run) و (engines) قمت بانشاء قاعدة بيانات مكونة من جدولين  **
-** ((id)primary key) مقسم الى سبعة اعمدة ستة للمحركات و واحد (engines) **
-** ((id)primary key) مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد (run) **
+**(run) و (engines) قمت بانشاء قاعدة بيانات مكونة من جدولين  
+((id)primary key) مقسم الى سبعة اعمدة ستة للمحركات و واحد (engines) 
+((id)primary key) مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد (run) **
 
 **I created a database consisting of two tables (run) and (engines).**
 **(engines) Divided into seven columns, six for engines and one ((id)primary key)**
