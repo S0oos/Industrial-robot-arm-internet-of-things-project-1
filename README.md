@@ -2,6 +2,7 @@
 * # مقدمة - Introduction
 
 **(database) للتحكم في ذراع الروبوت وانشأت (html)في هذا المشروع قمت بانشاء صفحة**
+
 **(php) وقمت بربط الداتابيس بصفحة التحكم عن طريق صفحة**
 
 **In this project, I created an (html) page to control the robot arm and created a (database) and linked the databases to the control page via a (php) page**
