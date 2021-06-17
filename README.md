@@ -9,7 +9,9 @@
 
 ## 1.(html) انشاء صفحة - Create (html) page
 
-**لاعطاء شكل جميل للصفحة وتنظيمها (css) مكون من ستة محركات و زر حفظ و زر تشغيل و زر ايقاف واستخدمت (html) في البداية تقوم بانشاء صفحة**
+**مكون من ستة محركات و زر حفظ و زر تشغيل و زر ايقاف (html) في البداية تقوم بانشاء صفحة**
+
+**لاعطاء شكل جميل للصفحة وتنظيمها(css) واستخدمت**
 
 **In the beginning, you create a page (html) consisting of six engines, a save button, a start button, and a stop button and I used (css) to give a beautiful look to the page and organize**
 
