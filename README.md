@@ -4,13 +4,13 @@
 
 **In this project, I created an (html) page to control the robot arm and created a (database) and linked the databases to the control page via a (php) page**
 
-> ## 1.(html) انشاء صفحة - Create (html) page
+## 1.(html) انشاء صفحة - Create (html) page
 
 **لاعطاء شكل جميل للصفحة وتنظيمها (css) مكون من ستة محركات و زر حفظ و زر تشغيل و زر ايقاف واستخدمت (html) في البداية تقوم بانشاء صفحة **
 
 **In the beginning, you create a page (html) consisting of six engines, a save button, a start button, and a stop button and I used (css) to give a beautiful look to the page and organize**
 
-> ## 2.(database) انشاء قاعدة بيانات - Create a (database)
+## 2.(database) انشاء قاعدة بيانات - Create a (database)
 
 * **(run) و (engines) قمت بانشاء قاعدة بيانات مكونة من جدولين**
 
@@ -24,7 +24,7 @@
 
 * **(run) Divided into three columns, two for on and off, and one for ((id)primary key)**
 
-> ## 3.(database)وقاعدة البيانات (html) الربط بين صفحة - Linking the html page to the database
+## 3.(database)وقاعدة البيانات (html) الربط بين صفحة - Linking the html page to the database
 
 **(database)وقاعدة البيانات (html) للربط بين صفحة (Connection) وكتابة كود ال (php) الربط باستخدام صفحة** 
 
