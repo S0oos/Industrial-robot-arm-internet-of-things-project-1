@@ -1,7 +1,8 @@
 ## https://s0oos.github.io/Industrial-robot-arm-internet-of-things-project-1/industrial_robot_arm_project_1.html :(html)هذا رابط صفحة ال 
 * # مقدمة - Introduction
 
-**(php) وقمت بربط الداتابيس بصفحة التحكم عن طريق صفحة (database) للتحكم في ذراع الروبوت وانشأت (html) في هذا المشروع قمت بانشاء صفحة**
+**(database) للتحكم في ذراع الروبوت وانشأت (html)في هذا المشروع قمت بانشاء صفحة**
+**(php) وقمت بربط الداتابيس بصفحة التحكم عن طريق صفحة**
 
 **In this project, I created an (html) page to control the robot arm and created a (database) and linked the databases to the control page via a (php) page**
 
