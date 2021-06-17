@@ -14,15 +14,15 @@
 
 **(run) و (engines) قمت بانشاء قاعدة بيانات مكونة من جدولين**
 
-** ((id)primary key) مقسم الى سبعة اعمدة ستة للمحركات و واحد (engines)**
+**((id)primary key) مقسم الى سبعة اعمدة ستة للمحركات و واحد (engines)**
 
-** ((id)primary key) مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد (run)**
+**((id)primary key) مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد (run)**
 
 **I created a database consisting of two tables (run) and (engines).**
 
-**(engines) Divided into seven columns six for engines and one ((id)primary key)**
+**(engines) Divided into seven columns, six for engines and one ((id)primary key)**
 
-**(run) Divided into three columns, two for on and off and one for ((id)primary key)**
+**(run) Divided into three columns, two for on and off, and one for ((id)primary key)**
 
 ## 3.(database)وقاعدة البيانات (html) الربط بين صفحة - Linking the html page to the database
 
