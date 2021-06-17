@@ -19,9 +19,9 @@
 
 * **(run) و (engines) قمت بانشاء قاعدة بيانات مكونة من جدولين**
 
-* **((id)primary key) مقسم الى سبعة اعمدة ستة للمحركات و واحد (engines)**
+* **((id)primary key)مقسم الى سبعة اعمدة ستة للمحركات و واحد ك (engines)**
 
-* **((id)primary key) مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد (run)**
+* **((id)primary key)مقسم ثلاثة اعمدة اثنان للتشغيل و الايقاف و واحد ك(run)**
 
 * **I created a database consisting of two tables (run) and (engines).**
 
